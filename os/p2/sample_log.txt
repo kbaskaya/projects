@@ -1,0 +1,24 @@
+comp201@comp201-asu:~/Desktop/304$ ./args 4 5 75 3 12345
+[0:0.1] Moderator asks question 1
+[0:0.98] Commentator #0 generates response for 1.333198 second
+[0:1.333455] Commentator #3 generates response for 1.108300 second
+[0:2.441896] Commentator #2 generates response for 1.551331 second
+[0:3.6271] Moderator asks question 2
+[0:3.6217] Commentator #0 generates response for 1.642066 second
+[0:5.363654] Commentator #3 generates response for 1.439314 second
+[0:7.76091] Commentator #2 generates response for 1.403475 second
+[0:8.479924] Moderator asks question 3
+[0:8.479978] Commentator #1 generates response for 1.687840 second
+[0:10.168001] Commentator #2 generates response for 2.756987 second
+[0:12.74534] Commentator #3 generates response for 2.310837 second
+[0:15.236761] Commentator #0 generates response for 2.055288 second
+[0:17.292352] Moderator asks question 4
+[0:17.292403] Commentator #3 generates response for 2.831384 second
+[0:20.124082] Commentator #0 generates response for 2.439858 second
+[0:22.564099] Commentator #2 generates response for 2.275070 second
+[0:24.160492] Moderator asks question 5
+[0:24.160428] Commentator #3 generates response for 1.824119 second
+[0:26.336193] Commentator #2 generates response for 1.056104 second
+[0:27.279539] Commentator #1 generates response for 1.684918 second
+[0:29.405825] Commentator #0 generates response for 2.265616 second
+
